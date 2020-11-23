@@ -1,0 +1,22 @@
+
+    Generar la base sobre JavaScript
+
+    Constantes y variables Let
+
+    Template String
+
+    Objetos literales
+
+    Arreglos
+
+    Desestructruación * (sumamente importante)
+
+    Promesas
+
+    Fetch API
+
+    Ternarios
+
+    Async - Await
+
+Estos temas permitiran que se tenga una base que ayuden a diferenciar fácilmente qué es propio de React y qué es propio de JavaScript. 
